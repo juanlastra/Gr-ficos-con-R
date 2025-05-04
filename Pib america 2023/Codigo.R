@@ -130,4 +130,4 @@ graficofinal <- ggdraw() +
 
 
 ggsave("graficopibamerica2023.png", plot = graficofinal,
-       width = 11.5, height = 10, dpi = 300)
+       width = 6, height = 7, dpi = 300)
