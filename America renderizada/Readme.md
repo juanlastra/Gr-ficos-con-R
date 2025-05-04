@@ -21,7 +21,7 @@ png: Para cargar y superponer imágenes PNG.
 ## 📁 Archivos importantes
 codigo america.R: Script principal en R que construye el modelo 3D.
 
-imagen_sur_america4k.png: Imagen final generada (vista 3D de Sudamérica).
+imagen_sur_america4k.png: Imagen final generada (vista 3D de Sudamérica), Puedes descargarla en el siguiente link: [Archivos en drive](https://drive.google.com/file/d/12KRhgIeN3VmOCWb0sEuZd627ruxOR7ij/view?usp=sharing)
 
 sur_america.tif: Imagen base raster que sirve como capa visual (no incluida por tamaño).
 
