@@ -1,4 +1,5 @@
 # 📊 Relación entre PIB per cápita y Horas de Trabajo Semanal (2023)
+
 Este proyecto visualiza la relación entre las horas de trabajo semanal y el PIB per cápita para distintos países en el año 2023. Cada punto en el gráfico está representado por la bandera del país correspondiente, permitiendo una lectura visual rápida e intuitiva.
 
 ## 🧠 Objetivo

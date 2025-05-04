@@ -1,4 +1,5 @@
 # 🌄 Visualización 3D del Aconcagua con Rayshader
+
 Este proyecto genera una imagen 3D realista del Monte Aconcagua (Argentina), la montaña más alta de América, utilizando datos satelitales y de elevación, procesados en R mediante rayshader y otros paquetes geoespaciales.
 
 
